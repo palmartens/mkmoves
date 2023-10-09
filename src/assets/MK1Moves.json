@@ -1,0 +1,1251 @@
+{
+  "Fighters": [
+    {
+      "name": "J. Cage",
+      "Normal Attacks": [
+        {
+          "name": "Footless",
+          "value": "B + X (AL)"
+        },
+        {
+          "name": "Flipper",
+          "value": "F + ◯"
+        },
+        {
+          "name": "Gutbusters",
+          "value": "B + △ (Hold △ to charge)"
+        },
+        {
+          "name": "Hands Off (for L1s)",
+          "value": "L1 + R2"
+        }
+      ],
+      "Special Moves": [
+        {
+          "name": "Ball Buster",
+          "value": "B, D, ▢ (+H)"
+        },
+        {
+          "name": "Show Off",
+          "value": "D, B, ▢ (Hold ▢ to extend)"
+        },
+        {
+          "name": "L1ing Shade",
+          "value": "F, D, B, △ (+H)"
+        },
+        {
+          "name": "Rising Star",
+          "value": "D, B, X (+H)"
+        },
+        {
+          "name": "Shadow Dash",
+          "value": "D, F, X (Extend with L2)"
+        },
+        {
+          "name": "Shadow Kick",
+          "value": "B, F, ◯ (+H)"
+        },
+        {
+          "name": "Hype",
+          "value": "F, D, B, ◯ (Builds Hype meter)"
+        },
+        {
+          "name": "Wowing Out",
+          "value": "F, D, B, ◯ (Activates Hype on full meter)"
+        }
+      ],
+      "Fatal Blow": [
+        {
+          "name": "That's All Folks",
+          "value": "L2 + R2 (350)"
+        },
+        {
+          "name": "Of Is It?",
+          "value": "Hold L2 + R2"
+        },
+        {
+          "name": "Shadow Dash",
+          "value": "D, F, X"
+        }
+      ],
+      "Kombos": [
+        {
+          "name": "Knuckle Under The Buckle",
+          "value": "▢, ▢, △ (120)"
+        },
+        {
+          "name": "Kontracted Kick",
+          "value": "▢, ▢, ◯ (140)"
+        },
+        {
+          "name": "Under The Table",
+          "value": "F + ▢, △, X (130)"
+        },
+        {
+          "name": "Back To The Footure",
+          "value": "F + ▢, △, ◯ (132.5)"
+        },
+        {
+          "name": "Dunking On Haters",
+          "value": "△, ▢, △ (130)"
+        },
+        {
+          "name": "Foot Loosey Goosey",
+          "value": "△, ▢, ◯, ◯ (130)"
+        },
+        {
+          "name": "Pow",
+          "value": "X, X (120)"
+        },
+        {
+          "name": "On The Chin",
+          "value": "F + X, △, ▢ (130)"
+        },
+        {
+          "name": "Style Points",
+          "value": "F + X, ◯ (120)"
+        },
+        {
+          "name": "Cagenado",
+          "value": "◯, ◯ (140)"
+        }
+      ],
+      "Aerial Kombos": [
+        {
+          "name": "Air Blood",
+          "value": "▢, △, ◯ (125.5, A)"
+        },
+        {
+          "name": "Star WreckedL The Final Frontier",
+          "value": "△, ◯, ◯ (168.5, A)"
+        }
+      ],
+      "Finishing Moves": {
+        "Fatalities": [
+          {
+            "name": "Hollywood Walk of Pain",
+            "value": "F, B, D, △ (Close)"
+          },
+          {
+            "name": "Drive-by",
+            "value": "F, D, B, ◯ (Mid)"
+          }
+        ],
+        "Brutalities": [
+          {
+            "name": "The Klassic",
+            "value": "D + △ (Close)"
+          },
+          {
+            "name": "Here's Johnny",
+            "value": "L1 or ▢ + X (Tap D During Hit, Level 3)"
+          },
+          {
+            "name": "Game Over Man",
+            "value": "▢ + X or L1 (Must be a L1 Escape, Level 5)"
+          },
+          {
+            "name": "Welcome To The Party",
+            "value": "B, D, ▢ (Hold △ During Hit, Level 10)"
+          }
+        ],
+        "Secret Brutalities": "Koming Soon"
+      },
+      "Notes": {
+        "Hype Meter Activation Effects": [
+          "Special Moves can cancel into other Special moves",
+          "Kameo Summons/Fatal Blows up to two times in a row",
+          "Specials are always Enhanced"
+        ]
+      }
+    },
+    {
+      "name": "Kung Lao",
+      "Normal Attacks": [
+        {
+          "name": "Monk Drop",
+          "value": "F + ◯"
+        }
+      ],
+      "Special Moves": [
+        {
+          "name": "Buzzsaw",
+          "value": "B, F, ▢"
+        },
+        {
+          "name": "Hat Toss",
+          "value": "D, B, ▢, (?) (? = Up: Direct Up, D: Direct Down)"
+        },
+        {
+          "name": "Shaolin Shimmy",
+          "value": "B, F, △"
+        },
+        {
+          "name": "Kung-Kussion",
+          "value": "D, B, △"
+        },
+        {
+          "name": "Shaolin Spin",
+          "value": "D, Up, X"
+        },
+        {
+          "name": "Extend",
+          "value": "Hold X (Use B/F to move)"
+        },
+        {
+          "name": "Cancel",
+          "value": "D, D"
+        },
+        {
+          "name": "Soaring Monk/Dive Kick",
+          "value": "D, B, ◯ (+A)"
+        }
+      ],
+      "Fatal Blow": [
+        {
+          "name": "Practiced And Perfected",
+          "value": "L2 + R2 (350)"
+        }
+      ],
+      "Kombos": [
+        {
+          "name": "Swallen Throat",
+          "value": "▢, △, ▢ (120)"
+        },
+        {
+          "name": "Sweep The Foot",
+          "value": "B + ▢, ◯ (90)"
+        },
+        {
+          "name": "Eight Trigram Palm",
+          "value": "△, ▢, △, ▢ (180)"
+        },
+        {
+          "name": "Human Weapon",
+          "value": "B + △, ◯ (120)"
+        },
+        {
+          "name": "Focused Footsies",
+          "value": "B + X, X (120)"
+        },
+        {
+          "name": "Monastary Mixup",
+          "value": "B + X, ◯ (120)"
+        },
+        {
+          "name": "One More Time",
+          "value": "F + X, X, X (150)"
+        },
+        {
+          "name": "Get Back",
+          "value": "◯, ◯ (14%)"
+        }
+      ],
+      "Aerial Kombos": [
+        {
+          "name": "Hinge Kick",
+          "value": "▢, △, ◯ (150, A)"
+        },
+        {
+          "name": "Spinning Finish",
+          "value": "X, ◯, X (190, A)"
+        }
+      ],
+      "Finishing Moves": {
+        "Fatalities": [
+          {
+            "name": "Lao'd and Clear",
+            "value": "B, F, B, ◯ (Mid)"
+          },
+          {
+            "name": "Ripper",
+            "value": "B, D, D, X (Close)"
+          }
+        ],
+        "Brutalities": [
+          {
+            "name": "The Klassic",
+            "value": "D + △ (Close)"
+          },
+          {
+            "name": "Spin Cycle",
+            "value": "L1 (Tap F, D, B, Up During Hit, Level 3)"
+          },
+          {
+            "name": "Grind Away",
+            "value": "B, F, ▢ (Hold ▢ During Hit, Jump Distance, Level 5)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Liu Kang",
+      "Special Moves": [
+        {
+          "name": "Cosmic Flame",
+          "value": "B, F, ▢ (+A)"
+        },
+        {
+          "name": "Low Dragon",
+          "value": "D, B, ▢"
+        },
+        {
+          "name": "Dragon's Tail",
+          "value": "B, F, X"
+        },
+        {
+          "name": "Dancing Dragon",
+          "value": "B, F, ◯"
+        },
+        {
+          "name": "Dragon Breath",
+          "value": "D, B, ◯, (+B) (B: Close)"
+        }
+      ],
+      "Fatal Blow": [
+        {
+          "name": "Mark Of The Creator",
+          "value": "L2 + R2 (350)"
+        }
+      ],
+      "Kombos": [
+        {
+          "name": "Punishing Palm",
+          "value": "▢, △, ▢ (120)"
+        },
+        {
+          "name": "Shaolin Stutter",
+          "value": "F + ▢, ◯ (100)"
+        },
+        {
+          "name": "Pyromancer's Gift",
+          "value": "△, △, ▢ (150)"
+        },
+        {
+          "name": "Tailwip",
+          "value": "B + △, X (120)"
+        },
+        {
+          "name": "Chosen One",
+          "value": "X, △ (120)"
+        },
+        {
+          "name": "Holding Back",
+          "value": "X, X, X (150)"
+        },
+        {
+          "name": "Burning Desire",
+          "value": "◯, X (140)"
+        },
+        {
+          "name": "Eternal Power",
+          "value": "F + ◯, X, ◯ (178.5)"
+        }
+      ],
+      "Aerial Kombos": [
+        {
+          "name": "Deep Impact",
+          "value": "▢, △ (95.5, A)"
+        },
+        {
+          "name": "Unstoppable",
+          "value": "▢, X, ◯ (195.5, A)"
+        },
+        {
+          "name": "New Future",
+          "value": "◯, X, ◯ (199.5%, A)"
+        }
+      ],
+      "Finishing Moves": {
+        "Fatalities": [
+          {
+            "name": "Double Dragon",
+            "value": "D, F, B, ◯ (Close)"
+          },
+          {
+            "name": "Spaghettification",
+            "value": "B, F, B, X (Close)"
+          }
+        ],
+        "Brutalities": [
+          {
+            "name": "The Klassic",
+            "value": "D + △"
+          },
+          {
+            "name": "Bleeding Heart",
+            "value": "L1 or ▢ + X (Press F, F, F on Hit, Level 3)"
+          },
+          {
+            "name": "Dancing Around",
+            "value": "B, F, ◯ (Press X or ◯ 6 Times During Hit, Level 5)"
+          },
+          {
+            "name": "Pop Goes The...",
+            "value": "X, X, X (Hold F During Hit, Level 7)"
+          },
+          {
+            "name": "Just A Nibble",
+            "value": "B, F, X (Hold D During Hit, Jump Distance Away, Move can be enhanced, Level 10)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Raiden",
+      "Normal Attacks": [
+        {
+          "name": "Lightning Strike",
+          "value": "B + △"
+        }
+      ],
+      "Special Moves": [
+        {
+          "name": "Electric Orb",
+          "value": "D, F, ▢ (Hold ▢ to Extend)"
+        },
+        {
+          "name": "Razzle Dazzle",
+          "value": "D, B, △"
+        },
+        {
+          "name": "Shocker",
+          "value": "D, F, △ (Hold ▢ to Extend)"
+        },
+        {
+          "name": "Electric Fly",
+          "value": "B, F, X (+A)"
+        },
+        {
+          "name": "Electromagnetic Storm",
+          "value": "D, B, X, (+E X)"
+        },
+        {
+          "name": "Lightning Port",
+          "value": "D, Up"
+        }
+      ],
+      "Fatal Blow": [
+        {
+          "name": "Raijin' Raidens",
+          "value": "L2 + R2 (350)"
+        }
+      ],
+      "Kombos": [
+        {
+          "name": "Micro Burst",
+          "value": "▢, △, X (120)"
+        },
+        {
+          "name": "Deadly Current",
+          "value": "△, ◯, △, ▢ (187.5)"
+        },
+        {
+          "name": "Electric Charge",
+          "value": "F + △, ▢ (120)"
+        },
+        {
+          "name": "No Apprentice",
+          "value": "F + △, △, ◯ (150)"
+        },
+        {
+          "name": "Little Shock",
+          "value": "X, ◯ (120, AL)"
+        },
+        {
+          "name": "Double Strike",
+          "value": "F + X, ◯ (147.5)"
+        },
+        {
+          "name": "Super Bolt",
+          "value": "F + ◯, X, ◯ (150)"
+        }
+      ],
+      "Aerial Kombos": [
+        {
+          "name": "Double Take",
+          "value": "▢, X, ◯ (A, 190)"
+        },
+        {
+          "name": "He Can Slap",
+          "value": "△, ▢, △ (A, 147)"
+        },
+        {
+          "name": "Whirlwind",
+          "value": "△, △, ◯ (A, 147)"
+        }
+      ],
+      "Finishing Moves": {
+        "Fatalities": [
+          {
+            "name": "The Storm's Arrical",
+            "value": "B, F, B, △ (Close)"
+          },
+          {
+            "name": "Fatality 2",
+            "value": "D, F, B, ▢ (Mid)"
+          }
+        ],
+        "Brutalities": [
+          {
+            "name": "The Klassic",
+            "value": "D + △ (Close)"
+          },
+          {
+            "name": "That's A Shocker",
+            "value": "L1 or ▢ + △ (Close, Press ▢ or △ 6 Times During Hit)"
+          },
+          {
+            "name": "Overload",
+            "value": "D, B, X (Hold Up During Hit)"
+          },
+          {
+            "name": "Inside Out",
+            "value": "B, F, X (Press D During Hit)"
+          },
+          {
+            "name": "Headed Nowhere",
+            "value": "▢, △, X (Hold Up during Final Hit)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Reptile",
+      "Normal Attacks": [
+        {
+          "name": "Devastating Blow",
+          "value": "B + △ (Hold △ to Charge)"
+        }
+      ],
+      "Special Moves": [
+        {
+          "name": "Acid Spit",
+          "value": "D, F, ▢"
+        },
+        {
+          "name": "Dash Attack",
+          "value": "B, F, △"
+        },
+        {
+          "name": "Force Ball",
+          "value": "D, F, X, (+E ?) (+E, ? = B/F: Slow/Fast)"
+        },
+        {
+          "name": "Death Roll",
+          "value": "B, F, ◯"
+        },
+        {
+          "name": "Invisibility",
+          "value": "D, Up, ◯"
+        },
+        {
+          "name": "Falling Fangs",
+          "value": "D, B, ◯, (B) (A, B: Close)"
+        }
+      ],
+      "Fatal Blow": [
+        {
+          "name": "The Beast Unleashed",
+          "value": "L2 + R2 (350)"
+        }
+      ],
+      "Kombos": [
+        {
+          "name": "Killer Kick",
+          "value": "▢, ▢, ◯ (120)"
+        },
+        {
+          "name": "Froggy Knee",
+          "value": "△, X (100)"
+        },
+        {
+          "name": "Tail of Two Hities",
+          "value": "△, ◯ (100)"
+        },
+        {
+          "name": "Dr. Wreckyl",
+          "value": "F + △, ▢, ▢ (150)"
+        },
+        {
+          "name": "Kneet Trick",
+          "value": "F + △, X (100)"
+        },
+        {
+          "name": "Sneaky Lizard",
+          "value": "F + △, ◯ (100)"
+        },
+        {
+          "name": "Slip-N-Died",
+          "value": "B + X, △, X (130)"
+        },
+        {
+          "name": "Mr. Hide",
+          "value": "F + X, ▢, ▢ (140)"
+        },
+        {
+          "name": "Visceral Klaw",
+          "value": "F + X, △ (120)"
+        }
+      ],
+      "Aerial Kombos": [
+        {
+          "name": "Tipping The Scales",
+          "value": "▢, △ (A, 130)"
+        },
+        {
+          "name": "Natural Selection",
+          "value": "△, X, X (A, 180)"
+        }
+      ],
+      "Finishing Moves": {
+        "Fatalities": [
+          {
+            "name": "Indigestion",
+            "value": "F, B, D, ◯ (Mid)"
+          },
+          {
+            "name": "Acid Reflux",
+            "value": "F, D, B, X (Close but not next to the opponent)"
+          }
+        ],
+        "Brutalities": [
+          {
+            "name": "The Klassic",
+            "value": "D + △ (Close)"
+          },
+          {
+            "name": "Damn Tasty",
+            "value": "L1 (Press D, D, D During Hit, Level 2)"
+          },
+          {
+            "name": "Krocodile Done Right",
+            "value": "B, F, ◯ (Press Up, Up, Up During Hit, Level 5)"
+          },
+          {
+            "name": "Behind You",
+            "value": "B, F, △ (Hold △ During Hit, Level 7)"
+          },
+          {
+            "name": "Pop Belly",
+            "value": "F + X, △ (Hold B During Hit, Level 10)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Scorpion",
+      "Normal Attacks": [
+        {
+          "name": "Swipping Kunai",
+          "value": "B + △"
+        },
+        {
+          "name": "Sweeping Scorpion Tail",
+          "value": "B + X"
+        },
+        {
+          "name": "Falcon Dragon",
+          "value": "F + ◯ (AL)"
+        }
+      ],
+      "Special Moves": [
+        {
+          "name": "Spear",
+          "value": "B, F, ▢"
+        },
+        {
+          "name": "Blazing Charge",
+          "value": "B, F, △ (+A: Kyo Snag (Unbl.))"
+        },
+        {
+          "name": "Twisted Kyo",
+          "value": "D, B, △ (+A: Close Kyo Snag (Unbl.))"
+        },
+        {
+          "name": "Flame Port",
+          "value": "D, B, X (+A)"
+        },
+        {
+          "name": "Devouring Flame",
+          "value": "B, F, ◯ (+E: (Unbl.))"
+        }
+      ],
+      "Fatal Blow": [
+        {
+          "name": "Spared And Seared",
+          "value": "L2 + R2 (350)"
+        }
+      ],
+      "Kombos": [
+        {
+          "name": "Hell's Hook",
+          "value": "▢, △, △ (120)"
+        },
+        {
+          "name": "Deadly Assassin",
+          "value": "△, ▢, ◯ (130)"
+        },
+        {
+          "name": "Krackjaw",
+          "value": "X, X, X (130)"
+        },
+        {
+          "name": "Rising Hell",
+          "value": "F + X, △ (100)"
+        }
+      ],
+      "Aerial Kombos": [
+        {
+          "name": "Inner Flame",
+          "value": "▢, ▢, ▢ (A, 150)"
+        },
+        {
+          "name": "Get Over There",
+          "value": "▢, ▢, △ (A, 110)"
+        },
+        {
+          "name": "Flipping Out",
+          "value": "▢, ▢, ◯ (A, 110)"
+        },
+        {
+          "name": "Swinging Kyo",
+          "value": "▢, △ (A, 120)"
+        },
+        {
+          "name": "Krushing Kunai",
+          "value": "▢, X (A, 120)"
+        },
+        {
+          "name": "Demonic Slam",
+          "value": "△, ▢ + X (A)"
+        },
+        {
+          "name": "Deadly Sting",
+          "value": "△, ◯ (A, 120)"
+        }
+      ],
+      "Finishing Moves": {
+        "Fatalities": [
+          {
+            "name": "Eye-Palling Victory",
+            "value": "D, F, B, R2 (Mid)"
+          },
+          {
+            "name": "Killer Klones From Netherrealm",
+            "value": "B, F, B, △ (Mid)"
+          }
+        ],
+        "Brutalities": [
+          {
+            "name": "The Klassic",
+            "value": "D + △ (Close)"
+          },
+          {
+            "name": "Burn For Me!",
+            "value": "L1 or ▢ + X (Tap F, D, B, Up During L1, Level 5)"
+          },
+          {
+            "name": "Choke On It",
+            "value": "B, F, △ (Press D, D, D During Hit, Level 7)"
+          },
+          {
+            "name": "Any Way You Slice It",
+            "value": "B, F, ▢ (Hold B During Hit, Jump Distance, Level 10)"
+          },
+          {
+            "name": "Stop Ahead",
+            "value": "???"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Smoke",
+      "Normal Attacks": [
+        {
+          "name": "Tele Stab",
+          "value": "B + △"
+        },
+        {
+          "name": "Sweeping Smoke",
+          "value": "F + ◯"
+        }
+      ],
+      "Special Moves": [
+        {
+          "name": "Shadow Blade",
+          "value": "D, B, ▢"
+        },
+        {
+          "name": "Smoke Bomb",
+          "value": "D, B, △"
+        },
+        {
+          "name": "Vicious Vapor",
+          "value": "B, F, X (B to Cancel)"
+        },
+        {
+          "name": "Smoke Port",
+          "value": "D, B, ◯ (+A, Hold F to Cancel)"
+        }
+      ],
+      "Fatal Blow": [
+        {
+          "name": "Mistborn Killer",
+          "value": "L2 + R2 (350)"
+        }
+      ],
+      "Kombos": [
+        {
+          "name": "No Escape",
+          "value": "▢, ▢, ▢, ◯ (150)"
+        },
+        {
+          "name": "Missing The Toes",
+          "value": "F + ▢, △, △, ◯ (163)"
+        },
+        {
+          "name": "Kuttan-Room Four",
+          "value": "F + ▢, △, ▢ + X (120)"
+        },
+        {
+          "name": "Phasing Through",
+          "value": "F + ▢, △, ▢ + X + B (135)"
+        },
+        {
+          "name": "Everywhere",
+          "value": "△, ▢, △ (165)"
+        },
+        {
+          "name": "Violent Tendencies",
+          "value": "B + △, X, ◯ (170)"
+        },
+        {
+          "name": "Smoke Damage",
+          "value": "X, ▢ (127.5)"
+        },
+        {
+          "name": "Soaring Assassin",
+          "value": "F + X, △, ◯ (150)"
+        },
+        {
+          "name": "Inhalation",
+          "value": "D + X, ◯ (40)"
+        },
+        {
+          "name": "Unlisted",
+          "value": "B + X, △ (AL, 125)"
+        }
+      ],
+      "Aerial Kombos": [
+        {
+          "name": "Smoked Out",
+          "value": "▢, ▢, △ (A, 210)"
+        },
+        {
+          "name": "Cutter",
+          "value": "△, ▢, ▢ (A, 110)"
+        },
+        {
+          "name": "Airing Out",
+          "value": "X, ◯, ◯ (A, 165)"
+        }
+      ],
+      "Finishing Moves": {
+        "Fatalities": [
+          {
+            "name": "Hanzed And Infused",
+            "value": "B, F, D, ▢ (Anywhere)"
+          },
+          {
+            "name": "Fatality 2",
+            "value": "D, F, B, △ (Anywhere)"
+          }
+        ],
+        "Brutalities": [
+          {
+            "name": "The Klassic",
+            "value": "D + △ (Close)"
+          },
+          {
+            "name": "An Eye For An Eye",
+            "value": "L1 or ▢ + X (Hold D During Hit)"
+          },
+          {
+            "name": "If It Bleeds",
+            "value": "B, F, X (Hold R2 During Hit)"
+          },
+          {
+            "name": "Don't Blink",
+            "value": "D, B, △ (Hold Up During Hit, Level 7)"
+          },
+          {
+            "name": "Slice And Dice",
+            "value": "F + ▢, △, ▢ + X (Hold Up During Hit, Level 10)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Subzero",
+      "Normal Attacks": [
+        {
+          "name": "Spinal Tap",
+          "value": "B + △ (AL)"
+        }
+      ],
+      "Special Moves": [
+        {
+          "name": "Ice Ball",
+          "value": "D, F, ▢"
+        },
+        {
+          "name": "Ice Klone",
+          "value": "D, B, ▢ (+A)"
+        },
+        {
+          "name": "Ice Klone Charge",
+          "value": "B, F, △"
+        },
+        {
+          "name": "Ice Slide",
+          "value": "B, F, X"
+        },
+        {
+          "name": "Diving Glacier",
+          "value": "D, B, ◯ (A)"
+        },
+        {
+          "name": "Deadly Vapors",
+          "value": "D, F, ◯"
+        }
+      ],
+      "Fatal Blow": [
+        {
+          "name": "Chill Out",
+          "value": "L2 + R2 (350)"
+        }
+      ],
+      "Kombos": [
+        {
+          "name": "Arctic Hammer",
+          "value": "▢, △, △ (120)"
+        },
+        {
+          "name": "Freezing Point",
+          "value": "F + ▢, △, X (130)"
+        },
+        {
+          "name": "Whiteout",
+          "value": "△, ▢, △ (150)"
+        },
+        {
+          "name": "Slip Slide",
+          "value": "X, ◯ (130)"
+        },
+        {
+          "name": "Permafrost",
+          "value": "B + X, ◯ (130)"
+        },
+        {
+          "name": "Hail Damage",
+          "value": "◯, ◯ (120)"
+        }
+      ],
+      "Aerial Kombos": [
+        {
+          "name": "Polar Plunge",
+          "value": "▢, ▢, △ (107, A)"
+        },
+        {
+          "name": "Menacing Mace",
+          "value": "▢, △ (77, A)"
+        },
+        {
+          "name": "Frosted Frenzy",
+          "value": "▢, X, ◯ (167, A)"
+        },
+        {
+          "name": "Frostbite",
+          "value": "△, ▢ (131, A)"
+        },
+        {
+          "name": "Arctic Blast",
+          "value": "△, △, △ (167, A)"
+        }
+      ],
+      "Finishing Moves": {
+        "Fatalities": [
+          {
+            "name": "Hairline Fracture",
+            "value": "F, D, D, △ (Anywhere)"
+          },
+          {
+            "name": "Brain Freeze",
+            "value": "F, B, D, ◯ (Close)"
+          }
+        ],
+        "Brutalities": [
+          {
+            "name": "The Klassic",
+            "value": "D + △"
+          },
+          {
+            "name": "Absolute Zero",
+            "value": "B, F, X (Press D, D, D During Hit, Level 3)"
+          },
+          {
+            "name": "Snowball",
+            "value": "D, F, ▢ (Full Screen, Level 5)"
+          },
+          {
+            "name": "Karbon Kopy",
+            "value": "B, F, △ (Hold ▢ During Hit, Level 7)"
+          },
+          {
+            "name": "Krushed Ice",
+            "value": "△, ▢, △ (Hold D During Hit, Level 10)"
+          }
+        ]
+      }
+    }
+  ],
+  "Kameos": [
+    {
+      "name": "Cyrax",
+      "Special Moves": [
+        {
+          "name": "Kopter Chopper",
+          "value": "R1"
+        },
+        {
+          "name": "Kopter Chopper Horizontal",
+          "value": "Hold R1"
+        },
+        {
+          "name": "Cyber Net",
+          "value": "B + R1"
+        },
+        {
+          "name": "Self-Destruct (F)",
+          "value": "F + R1"
+        },
+        {
+          "name": "Self-Destruct (F) Delay",
+          "value": "Hold R1"
+        },
+        {
+          "name": "Self-Destruct (D)",
+          "value": "D + R1"
+        },
+        {
+          "name": "Self-Destruct (D) Delay",
+          "value": "Hold R1"
+        }
+      ],
+      "Finishing Moves": {
+        "Kameo Fatalities": [
+          {
+            "name": "Annihilation",
+            "value": "F, B, F, R1 (Mid)"
+          }
+        ],
+        "Kameo Brutalities": [
+          {
+            "name": "Net Gross",
+            "value": "F + L1 or F + ▢ + X (Close, Press D, D during the move)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Darrius",
+      "Special Moves": [
+        {
+          "name": "Tornado Kick",
+          "value": "R1"
+        },
+        {
+          "name": "The Double Whammy",
+          "value": "R1, B + R1 (Mid)"
+        },
+        {
+          "name": "Twister Kicks (from Double Whammy)",
+          "value": "R1, B + R1, B + R1 (Mid)"
+        },
+        {
+          "name": "Volleybalistic (from Double Whammy)",
+          "value": "R1, F + R1 (Mid)"
+        },
+        {
+          "name": "(Delay) Eat Dirt",
+          "value": "R1, F + R1, Hold R1 (Mid)"
+        },
+        {
+          "name": "Volleybalistic",
+          "value": "F + R1"
+        },
+        {
+          "name": "Twister Kicks",
+          "value": "B + R1"
+        }
+      ],
+      "Finishing Moves": {
+        "Kameo Fatalities": [
+          {
+            "name": "Armed & Dangerous",
+            "value": "D, B, F, R1 (Mid)"
+          }
+        ],
+        "Kameo Brutalities": [
+          {
+            "name": "Here, Catch",
+            "value": "F + L1 or F +  ▢ + X (Press D, D)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Scorpion",
+      "Special Moves": [
+        {
+          "name": "Fire Breath",
+          "value": "R1 (U)"
+        },
+        {
+          "name": "(Mid) Fire Breath",
+          "value": "D + R1 (U)"
+        },
+        {
+          "name": "(Far) Fire Breath",
+          "value": "Up + R1 (U)"
+        },
+        {
+          "name": "Get Over Here",
+          "value": "B + R1"
+        },
+        {
+          "name": "Hell Blades",
+          "value": "F + R1"
+        }
+      ],
+      "Finishing Moves": {
+        "Kameo Fatalities": [
+          {
+            "name": "Toasty!!!",
+            "value": "D, F, D, R1 (Mid)"
+          }
+        ],
+        "Kameo Brutalities": [
+          {
+            "name": "Well Done",
+            "value": "F + L1 or F + ▢ + X (Close. Press D, D)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sektor",
+      "Special Moves": [
+        {
+          "name": "Up Rocket",
+          "value": "(U/D +) L1 (U = In Front, D = Behind)"
+        },
+        {
+          "name": "Up Rocket Activate",
+          "value": "L1"
+        },
+        {
+          "name": "Tele-Punch",
+          "value": "B + L1"
+        },
+        {
+          "name": "Flame Thrower",
+          "value": "F + L1"
+        }
+      ],
+      "Finishing Moves": {
+        "Kameo Fatalities": [
+          {
+            "name": "Kompactor",
+            "value": "B, F, B, L1 (Mid)"
+          }
+        ],
+        "Kameo Brutalities": [
+          {
+            "name": "Fire And Forget",
+            "value": "F + Throw or F + ▢ + X (Press D, D) [Kameo Level 2]"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Subzero",
+      "Special Moves": [
+        {
+          "name": "Arctic Armor",
+          "value": "R1"
+        },
+        {
+          "name": "Kold Sholder",
+          "value": "B + R1"
+        },
+        {
+          "name": "Iced Out",
+          "value": "F + R1"
+        }
+      ],
+      "Finishing Moves": {
+        "Kameo Fatalities": [
+          {
+            "name": "Spine Rip",
+            "value": "F, D, F, R1 (Mid)"
+          }
+        ],
+        "Kameo Brutalities": [
+          {
+            "name": "Frost Bite",
+            "value": "F + R1 (Press R1, R1, Level 2)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sareena",
+      "Special Moves": [
+          {
+              "name": "Jataaka's Kurse",
+              "value": "R1"
+          },
+          {
+              "name": "Kia's Blades",
+              "value": "B + R1"
+          },
+          {
+              "name": "Old Moon",
+              "value": "F + R1"
+          },
+          {
+              "name": "Demonic Dance",
+              "value": "D + R1"
+          }
+      ],
+      "Finishing Moves": {
+          "Kameo Fatalities": [
+              {
+                  "name": "Inner Demon",
+                  "value": "B, D, D, R1 (Mid)"
+              }
+          ],
+          "Kameo Brutalities": [
+              {
+                  "name": "To A Crisp",
+                  "value": "F + Throw or F + ▢ + X (Press D, D During Hit)"
+              }
+          ]
+      }
+  }
+  
+  ]
+}
