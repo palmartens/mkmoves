@@ -1556,7 +1556,165 @@
           }
       ]
   }
+},
+{
+  "name": "Motaro",
+  "Special Moves": [
+      {
+          "name": "Centaurian Warp",
+          "value": "R1"
+      },
+      {
+          "name": "Reflect (Moving - hold R1)",
+          "value": "B + R1"
+      },
+      {
+          "name": "Tail Shot",
+          "value": "F + R1"
+      },
+      {
+          "name": "Tail Turret",
+          "value": "D + R1"
+      },
+      {
+          "name": "Charge!",
+          "value": "R1 (During Fatal Blow Into)"
+      }
+  ],
+  "Finishing Moves": {
+      "Kameo Fatalities": [
+          {
+              "name": "Brain Blast",
+              "value": "F, D, D, R1 (Mid)"
+          }
+      ],
+      "Kameo Brutalities": [
+          {
+              "name": "What You Get!",
+              "value": "D + R1 (Hold R1, Level 2)"
+          }
+      ]
+  }
+},
+{
+  "name": "Frost",
+  "Special Moves": [
+      {
+          "name": "Ice Krash",
+          "value": "R1"
+      },
+      {
+          "name": "Frostly Revenge",
+          "value": "Hold R1"
+      },
+      {
+          "name": "Snow Flakes",
+          "value": "B + R1 (D, D to cancel)"
+      },
+      {
+          "name": "Ice Karpet",
+          "value": "F + R1"
+      }
+  ],
+  "Finishing Moves": {
+      "Kameo Fatalities": [
+          {
+              "name": "Breaking Point",
+              "value": "B, D, B, R1 (Mid)"
+          }
+      ],
+      "Kameo Brutalities": [
+          {
+              "name": "Pin Kushion",
+              "value": "F + Throw or F + ▢ + X (Press D, D) [Level 2]"
+          }
+      ]
+  }
+},
+{
+  "name": "Goro",
+  "Special Moves": [
+      {
+          "name": "Raise The Roof",
+          "value": "R1 (Mid: D + R1, Far: U + R1)"
+      },
+      {
+          "name": "Punch Walk",
+          "value": "F + R1"
+      },
+      {
+          "name": "Shockan Stomp",
+          "value": "R1, R1 (In-Front: +B, Behind: + F)"
+      },
+      {
+          "name": "Dead Weight",
+          "value": "B + R1"
+      }
+  ],
+  "Finishing Moves": {
+      "Kameo Fatalities": [
+          {
+              "name": "Prince Of Pain",
+              "value": "B, F, D, R1 (Close)"
+          }
+      ],
+      "Kameo Brutalities": [
+          {
+              "name": "Make Up Your Mind",
+              "value": "F + L1 (Press D, D, Level 2)"
+          }
+      ]
+  }
+},
+{
+  "name": "Jax",
+  "Special Moves": [
+      {
+          "name": "Ground Pound",
+          "value": "R1"
+      },
+      {
+          "name": "Close Back Breaker",
+          "value": "B + R1"
+      },
+      {
+          "name": "Far Back Breaker",
+          "value": "F + R1"
+      },
+      {
+          "name": "Energy Wave",
+          "value": "D + R1"
+      }
+  ],
+  "Throws": [
+      {
+          "name": "Multi-Slam",
+          "value": "F + L1 / F + ▢ + X"
+      },
+      {
+          "name": "Multi-Slam - Quad-Slam",
+          "value": "R2"
+      }
+  ],
+  "Finishing Moves": {
+      "Kameo Fatalities": [
+          {
+              "name": "Big Boot",
+              "value": "D, F, D, R1 (Far)"
+          }
+      ],
+      "Kameo Brutalities": [
+          {
+              "name": "Awww, Damn!",
+              "value": "F + Throw or F + ▢ + X (Hold R1, Level 2)"
+          }
+      ]
+  }
 }
+
+
+
+
 
 
 
