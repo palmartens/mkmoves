@@ -1373,7 +1373,194 @@
               }
           ]
       }
+    },
+    {
+      "name": "Stryker",
+      "Special Moves": [
+          {
+              "name": "Lethal Takedown",
+              "value": "R1"
+          },
+          {
+              "name": "Low Granade",
+              "value": "B + R1"
+          },
+          {
+              "name": "High Granade",
+              "value": "F + R1"
+          },
+          {
+              "name": "Kuffed",
+              "value": "D + R1"
+          },
+          {
+              "name": "Cop Bop",
+              "value": "Up + R1"
+          }
+      ],
+      "Finishing Moves": {
+          "Kameo Fatalities": [
+              {
+                  "name": "Safety Vest",
+                  "value": "F, D, F, R1 (Mid)"
+              }
+          ],
+          "Kameo Brutalities": [
+              {
+                  "name": "Busted",
+                  "value": "B + R1 or B + ▢ + X (Press D, D; Level 2)"
+              },
+              {
+                  "name": "It Goes Boom",
+                  "value": "F + R1 (Hold R1, Jump Distance Away, Level 11)"
+              }
+          ]
+      }
+  },
+  {
+    "name": "Kano",
+    "Special Moves": [
+        {
+            "name": "Eye Laser",
+            "value": "R1"
+        },
+        {
+            "name": "Knife Toss",
+            "value": "B + R1"
+        },
+        {
+            "name": "Ball",
+            "value": "F + R1 (Delay: Hold R1, R2 to Cancel)"
+        }
+    ],
+    "Finishing Moves": {
+        "Kameo Fatalities": [
+            {
+                "name": "Heart Ripper",
+                "value": "B, D, F, R1 (Mid)"
+            }
+        ],
+        "Kameo Brutalities": [
+            {
+                "name": "You Alright Mate?",
+                "value": "B + Throw or B + ▢, X (Press D, D)"
+            }
+        ]
     }
+},
+{
+  "name": "Kung Lao",
+  "Special Moves": [
+      {
+          "name": "Away We Go",
+          "value": "R1"
+      },
+      {
+          "name": "Away We Go (Air)",
+          "value": "Hold R1"
+      },
+      {
+          "name": "Buzz Saw",
+          "value": "B + R1 (Hold R1 to Delay)"
+      },
+      {
+          "name": "Spin",
+          "value": "F + R1"
+      }
+  ],
+  "Finishing Moves": {
+      "Kameo Fatalities": [
+          {
+              "name": "Klean Kut",
+              "value": "F, B, F, R1 (Mid)"
+          }
+      ],
+      "Kameo Brutalities": [
+          {
+              "name": "Got Head?",
+              "value": "F + L1 (Press D, D, Level 2)"
+          }
+      ]
+  }
+},
+{
+  "name": "Sonya",
+  "Special Moves": [
+      {
+          "name": "Square Wave",
+          "value": "R1"
+      },
+      {
+          "name": "Leg Grab",
+          "value": "B + R1"
+      },
+      {
+          "name": "Energy Rings",
+          "value": "F + R1 (Charge: hold L1, Cancel: D, D)"
+      }
+  ],
+  "Finishing Moves": {
+      "Kameo Fatalities": [
+          {
+              "name": "Kiss",
+              "value": "B, F, D, R1 (Mid)"
+          }
+      ],
+      "Kameo Brutalities": [
+          {
+              "name": "Popping Heads",
+              "value": "F + Throw or F + ▢ + X (Press D, D)"
+          }
+      ]
+  }
+},
+{
+  "name": "Shujinko",
+  "Special Moves": [
+      {
+          "name": "Passing Time",
+          "value": "R1 (Hold R1 to Delay, D - Really)"
+      },
+      {
+          "name": "Peace Out",
+          "value": "R1"
+      },
+      {
+          "name": "Apep Punch",
+          "value": "F + R1 (D - Really Passing TIme)"
+      },
+      {
+          "name": "Konquest Kick",
+          "value": "B + R1 (D - Really Passing TIme)"
+      },
+      {
+          "name": "Mimic",
+          "value": "D, B + R1"
+      },
+      {
+          "name": "Kopy Kat",
+          "value": "D, F + R1"
+      }
+  ],
+  "Finishing Moves": {
+      "Kameo Fatalities": [
+          {
+              "name": "Five Point Strike",
+              "value": "D, B, D, R1 (Mid)"
+          }
+      ],
+      "Kameo Brutalities": [
+          {
+              "name": "Koming Soon",
+              "value": "TBD"
+          }
+      ]
+  }
+}
+
+
+
+
   
   ]
 }
