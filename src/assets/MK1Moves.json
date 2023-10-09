@@ -743,19 +743,23 @@
           },
           {
             "name": "Burn For Me!",
-            "value": "L1 or ▢ + X (Tap F, D, B, Up During L1, Level 5)"
+            "value": "B, F, ◯ (Hold U during hit, Level 3)"
           },
           {
             "name": "Choke On It",
-            "value": "B, F, △ (Press D, D, D During Hit, Level 7)"
+            "value": "L1 (tap F, D, B, U during throw, Level 5)"
           },
           {
             "name": "Any Way You Slice It",
-            "value": "B, F, ▢ (Hold B During Hit, Jump Distance, Level 10)"
+            "value": "B, F, △ (Press D, D, D during hit, Level 7)"
           },
           {
             "name": "Stop Ahead",
-            "value": "???"
+            "value": "B, F, ▢ (Hold B During Hit, Jump Distance, Level 10)"
+          },
+          {
+            "name": "Hot Head",
+            "value": "D, B, X (Hold ▢ During Hit, Jump Distance, Level 15)"
           }
         ]
       }
@@ -1009,7 +1013,131 @@
           }
         ]
       }
-    }
+    },
+    {
+      "name": "Kitana",
+      "Special Moves": [
+          {
+              "name": "Fan Toss",
+              "value": "B, F, ▢, (E ?) (+A, ? = B: Close, F: Far)"
+          },
+          {
+              "name": "Fan-Nado",
+              "value": "D, B, ▢, (?) (+E or +A, ? = B: Close, F: Far)"
+          },
+          {
+              "name": "Princess Pirouette",
+              "value": "D, F, △"
+          },
+          {
+              "name": "Square Wave",
+              "value": "D, B, △ (+A)"
+          },
+          {
+              "name": "Fancy Flick",
+              "value": "D, B, X, (E ?) (+A, ? = B: Close, F: Far)"
+          },
+          {
+              "name": "Wind Bomv",
+              "value": "B, D, F, ◯, (?) (-E, ? = B: Close, F: Far, Up: Very Far)"
+          },
+          {
+              "name": "Stepping Up",
+              "value": "L2 + R2 (350)"
+          }
+      ],
+      "Kombos": [
+          {
+              "name": "Rising Up",
+              "value": "▢, ▢, △ (120)"
+          },
+          {
+              "name": "Wind Damage",
+              "value": "▢, ◯ (90)"
+          },
+          {
+              "name": "Who Runs The World",
+              "value": "B + ▢, ◯ (100)"
+          },
+          {
+              "name": "Twisted Edenian",
+              "value": "F + ▢, △ (127.5)"
+          },
+          {
+              "name": "The Comeback",
+              "value": "△, ◯, ▢, △"
+          },
+          {
+              "name": "Unbreakable",
+              "value": "△, ▢, △ (150)"
+          },
+          {
+              "name": "Heavy Is The Krown",
+              "value": "B + △, ◯ (120)"
+          },
+          {
+              "name": "Finishing Touch",
+              "value": "B + X, X (120)"
+          },
+          {
+              "name": "Simple Kommand",
+              "value": "B + X, Bk, X (170)"
+          },
+          {
+              "name": "Head Over Heels",
+              "value": "◯, F + X, X, ◯"
+          }
+      ],
+      "Aerial Kombos": [
+        {
+            "name": "Tail Spin",
+            "value": "▢, ▢, △ (219.5, A)"
+        },
+        {
+            "name": "Fan Slam",
+            "value": "△, ▢ (95.5%, A)"
+        },
+        {
+            "name": "Flipping Out",
+            "value": "X, ◯ (166.1, A)"
+        }
+    ],
+      "Finishing Moves": {
+          "Fatalities": [
+              {
+                  "name": "Royal Blender",
+                  "value": "D, F, D, ◯ (Far)"
+              },
+              {
+                  "name": "Last Kiss",
+                  "value": "D, D, B, ◯ (Close)"
+              }
+          ],
+          "Brutalities": [
+              {
+                  "name": "The Klassic",
+                  "value": "D + △ (Hold △)"
+              },
+              {
+                  "name": "Some Off The Top",
+                  "value": "L1 (Press D, D, D, Level 3)"
+              },
+              {
+                  "name": "Hit The Fan",
+                  "value": "B, F, ▢ (Hold B, Jump Distance, Level 5)"
+              },
+              {
+                  "name": "Where'd You Go?",
+                  "value": "D, B, △ (Hold D, Opponent Must Be in Air, Level 7)"
+              },
+              {
+                  "name": "Easy Peasy",
+                  "value": "▢, ▢, △ (Hold ▢, Level 10)"
+              }
+          ]
+      }
+  }
+  
   ],
   "Kameos": [
     {
@@ -1175,7 +1303,7 @@
         "Kameo Brutalities": [
           {
             "name": "Fire And Forget",
-            "value": "F + Throw or F + ▢ + X (Press D, D) [Kameo Level 2]"
+            "value": "F + R1 or F + ▢ + X (Press D, D) [Kameo Level 2]"
           }
         ]
       }
@@ -1241,11 +1369,11 @@
           "Kameo Brutalities": [
               {
                   "name": "To A Crisp",
-                  "value": "F + Throw or F + ▢ + X (Press D, D During Hit)"
+                  "value": "F + L1 or F + ▢ + X (Press D, D During Hit)"
               }
           ]
       }
-  }
+    }
   
   ]
 }
