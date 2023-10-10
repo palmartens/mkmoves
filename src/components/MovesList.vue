@@ -69,7 +69,9 @@
            v-for="kameo in jsondatanew.Kameos">{{ kameo.name }}</v-btn>
   </div>
 
-    <template v-for="fighter in jsondatanew.Fighters">
+    <v-row no-gutters>
+      <v-col cols="12" sm="4">
+        <template v-for="fighter in jsondatanew.Fighters">
         <v-card color="#242424" v-show="fighter.name === selectedFighter">
           <template v-slot:title>{{fighter.name}}</template>
           <template v-slot:text>
@@ -109,8 +111,11 @@
             <hr color="gray">
           </template>          
         </v-card>  
-      </template>
-     <template v-for="kameo in jsondatanew.Kameos">
+    </template>
+
+      </v-col>
+      <v-col>
+        <template v-for="kameo in jsondatanew.Kameos">
         <v-card color="#242424" v-show="kameo.name === selectedKameo">
           <template v-slot:title>{{kameo.name}}</template>
           <template v-slot:text>      
@@ -133,11 +138,12 @@
             <hr color="gray">
           </template>          
         </v-card>  
-      </template>
-  
-  
+    </template>
 
-
+      </v-col>
+    </v-row>
+    
+    
 </template>
 
 <style scoped>
